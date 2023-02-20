@@ -1,0 +1,9 @@
+.container
+  text-align: center
+.button-block
+  padding-top: 20px
+.temperature-warning
+  color: red
+.time-block
+  border: 1px solid black
+  padding: 5px

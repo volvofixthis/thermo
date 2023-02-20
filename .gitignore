@@ -1,0 +1,4 @@
+./build/spa
+vendor/
+static/css/main.css
+build/spa
